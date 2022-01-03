@@ -1,0 +1,15 @@
+{
+    "name": "ar4min/validation",
+    "authors": [
+        {
+            "name": "Armin Zahedi",
+            "email": "00001212aa@gmail.com"
+        }      
+    ],
+    "autoload": {
+        "psr-4": {
+            "ReagentValidation\\" : "src/"
+        }
+    },
+    "require": {}
+}
